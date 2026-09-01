@@ -2,7 +2,7 @@
 
 # Welcome!
 ## I'm Eduarda! Let me present a little about myself :D
-Quality Assurance Engineer | SDET 🚀  
+Quality Assurance Engineer 🚀  
 Passionate about software quality and testing, dedicated to delivering robust solutions and high-standard results in every project. ❤️
 
 ## About me
